@@ -1,0 +1,46 @@
+proto/main/grpc/ee/concise/gigantic_messaging/GiganticMessagingGrpc.java
+ ee.concise.gigantic_messaging.GiganticMessagingGrpc
+ ee.concise.gigantic_messaging.GiganticMessagingGrpc$1
+ ee.concise.gigantic_messaging.GiganticMessagingGrpc$2
+ ee.concise.gigantic_messaging.GiganticMessagingGrpc$3
+ ee.concise.gigantic_messaging.GiganticMessagingGrpc$GiganticMessagingBaseDescriptorSupplier
+ ee.concise.gigantic_messaging.GiganticMessagingGrpc$GiganticMessagingBlockingStub
+ ee.concise.gigantic_messaging.GiganticMessagingGrpc$GiganticMessagingFileDescriptorSupplier
+ ee.concise.gigantic_messaging.GiganticMessagingGrpc$GiganticMessagingFutureStub
+ ee.concise.gigantic_messaging.GiganticMessagingGrpc$GiganticMessagingImplBase
+ ee.concise.gigantic_messaging.GiganticMessagingGrpc$GiganticMessagingMethodDescriptorSupplier
+ ee.concise.gigantic_messaging.GiganticMessagingGrpc$GiganticMessagingStub
+ ee.concise.gigantic_messaging.GiganticMessagingGrpc$MethodHandlers
+ee/concise/gigantic_messaging/grpc/GiganticMessagingClient.java
+ ee.concise.gigantic_messaging.grpc.GiganticMessagingClient
+ee/concise/gigantic_messaging/enums/ResponseStatus.java
+ ee.concise.gigantic_messaging.enums.ResponseStatus
+proto/main/java/ee/concise/gigantic_messaging/BaseResponse.java
+ ee.concise.gigantic_messaging.BaseResponse
+ ee.concise.gigantic_messaging.BaseResponse$1
+ ee.concise.gigantic_messaging.BaseResponse$Builder
+ ee.concise.gigantic_messaging.BaseResponse$ResponseStatus
+ ee.concise.gigantic_messaging.BaseResponse$ResponseStatus$1
+proto/main/java/ee/concise/gigantic_messaging/GiganticMessagingProto.java
+ ee.concise.gigantic_messaging.GiganticMessagingProto
+proto/main/java/ee/concise/gigantic_messaging/EmailRequestOrBuilder.java
+ ee.concise.gigantic_messaging.EmailRequestOrBuilder
+ee/concise/gigantic_messaging/controller/RestResourceController.java
+ ee.concise.gigantic_messaging.controller.RestResourceController
+proto/main/java/ee/concise/gigantic_messaging/EmailRequest.java
+ ee.concise.gigantic_messaging.EmailRequest
+ ee.concise.gigantic_messaging.EmailRequest$1
+ ee.concise.gigantic_messaging.EmailRequest$Builder
+ee/concise/gigantic_messaging/Application.java
+ ee.concise.gigantic_messaging.Application
+ee/concise/gigantic_messaging/grpc/GiganticMessagingService.java
+ ee.concise.gigantic_messaging.grpc.GiganticMessagingService
+ ee.concise.gigantic_messaging.grpc.GiganticMessagingService$1
+ee/concise/gigantic_messaging/dto/BaseResponse.java
+ ee.concise.gigantic_messaging.dto.BaseResponse
+proto/main/java/ee/concise/gigantic_messaging/BaseResponseOrBuilder.java
+ ee.concise.gigantic_messaging.BaseResponseOrBuilder
+ee/concise/gigantic_messaging/service/EmailService.java
+ ee.concise.gigantic_messaging.service.EmailService
+ee/concise/gigantic_messaging/dto/SendEmailRequest.java
+ ee.concise.gigantic_messaging.dto.SendEmailRequest

@@ -1,0 +1,4 @@
+ee/concise/gigantic_messaging/grpc/GiganticMessagingGrpcClientTest.java
+ ee.concise.gigantic_messaging.grpc.GiganticMessagingGrpcClientTest
+ee/concise/gigantic_messaging/controller/RestResourceTest.java
+ ee.concise.gigantic_messaging.controller.RestResourceTest
